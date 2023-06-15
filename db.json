@@ -1,0 +1,43 @@
+{
+  "watch_again" : [
+    {
+      "id": 1,
+      "title": "The Boss Baby",
+      "description": "Join tintin on an exciting journey through the world of artificial intelligence.",
+      "genre": "Sci-Fi",
+      "duration": "1h 45m",
+      "release_year": 2022,
+      "director": "AI Director",
+      "cast": ["character 1", "main Actor 1", "main Actor 2"],
+      "thumbnail": "https://www.digitaltrends.com/wp-content/uploads/2023/05/unPB1iyEeTBcKiLg8W083rlViFH.jpg?p=1#038;p=1.jpg",
+      "video_url": "https://example.com/videos/adventures-of-chatgpt.mp4",
+      "banner_image": "https://images4.alphacoders.com/914/914860.jpg"
+    },
+    {
+      "id": 2,
+      "title": "We're the millers",
+      "description": "A young programmer discovers a hidden code that can change the world.",
+      "genre": "Thriller",
+      "duration": "2h 10m",
+      "release_year": 2021,
+      "director": "Mystery Director",
+      "cast": ["Programmer Protagonist", "Mysterious Character"],
+      "thumbnail": "https://www.digitaltrends.com/wp-content/uploads/2023/06/qF2LJ0jwWrtXSuT4AFD5OS2IqaT.jpg?p=1#038;p=1.jpg",
+      "video_url": "https://example.com/videos/secret-code.mp4",
+      "banner_image": "https://wallpaperaccess.com/full/2466581.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Blood & Gold",
+      "description": "Love blossoms in a picturesque countryside retreat.",
+      "genre": "Romance",
+      "duration": "1h 55m",
+      "release_year": 2023,
+      "director": "Romantic Director",
+      "cast": ["Charming Lead", "Enchanting Love Interest"],
+      "thumbnail": "https://www.digitaltrends.com/wp-content/uploads/2023/06/oLRQP5cEjiT1DxeIHUYEV96Ijum.jpg?p=1#038;p=1.jpg",
+      "video_url": "https://example.com/videos/romantic-retreat.mp4",
+      "banner_image": "https://m.media-amazon.com/images/M/MV5BMzgwMDAzMDctMTE1Yi00YjVjLThlYzUtYmY2NjY5NGEzZjk1XkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_.jpg"
+    }
+  ]
+}
